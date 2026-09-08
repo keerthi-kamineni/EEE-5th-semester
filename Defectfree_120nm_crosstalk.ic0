@@ -1,0 +1,31 @@
+* "simulator" "HSPICE" 
+* "version" "O-2018.09-2 linux64"
+* "format" "HSP"
+* "rundate" "16:18:18 05/11/2025 "
+* "netlist" "Defectfree_120nm_crosstalk.sp "
+* "runtitle" ".param temp=27"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a1 = 700.0000m       
++ a2 =  10.1603n       
++ aa1 = 700.0000m       
++ aa2 =  10.1603n       
++ b1 = 700.0000m       
++ b2 =  10.1603n       
++ c1 = 700.0000m       
++ c2 =  10.1603n       
++ d1 = 700.0000m       
++ d2 =  10.1603n       
++ g1 =   0.            
++ g2 =   0.            
++ in1 =   0.            
++ in2 = 700.0000m       
++ out1 = 700.0000m       
++ out2 =  10.1603n       
++ vdd1 = 700.0000m       
++ vdd2 = 700.0000m       
+***   END: Saved Operating Point ***                     

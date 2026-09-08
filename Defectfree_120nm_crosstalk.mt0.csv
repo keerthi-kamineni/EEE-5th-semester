@@ -1,0 +1,5 @@
+$DATA1 SOURCE='HSPICE' VERSION='O-2018.09-2 linux64' PARAM_COUNT=0
+$OPTION MEASFORM=3
+.TITLE '.param temp=27'
+vout2_max,vout2_min,vout2_mid,vin2_max,vin2_min,vin2_mid,xtalk_delay21_a,xtalk_delay21_b,t_crosstalk_delay21,temper,alter#
+   0.7000,-1.533e-03,   0.3492,   0.7000,   0.,   0.3500, 5.115e-11, 4.755e-11, 4.935e-11,  25.0000,1
